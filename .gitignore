@@ -4,4 +4,4 @@ build/
 .DS_Store
 .env
 0_*
-
+.gitignore
